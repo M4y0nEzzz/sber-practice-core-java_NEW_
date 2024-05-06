@@ -1,4 +1,4 @@
-package ru.sber.base.syntax.WEEK_7;
+package ru.sber.base.syntax.WEEK_8;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;

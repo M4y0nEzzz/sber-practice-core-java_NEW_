@@ -66,6 +66,7 @@ public class Pair<K, V> {
 
             for (Pair<Integer, String> countrie : countries) {
                 System.out.println(countrie);
+
             }
         }
     }

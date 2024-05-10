@@ -187,15 +187,15 @@ public class Point {
     public static class PaintExample {
         public static void main(String[] args) {
             Point point = new Point(0, 0);
-            Figure circle = new Circle(point, 5);
-            Figure rectangle = new Rectangle(point, 10, 5);
-            Figure triangle = new Triangle(point, 3, 4, 5);
-            Figure square = new Square(point, 5);
+//            Figure circle = new Circle(point, 5);
+//            Figure rectangle = new Rectangle(point, 10, 5);
+//            Figure triangle = new Triangle(point, 3, 4, 5);
+//            Figure square = new Square(point, 5);
 
-            System.out.println("Нарисован круг с координатами: " + circle.point);
-            System.out.println("Нарисован прямоугольник с координатами: " + rectangle.point);
-            System.out.println("Нарисован треугольник с координатами: " + triangle.point);
-            System.out.println("Нарисован квадрат с координатами: " + square.point);
+//            System.out.println("Нарисован круг с координатами: " + circle.point);
+//            System.out.println("Нарисован прямоугольник с координатами: " + rectangle.point);
+//            System.out.println("Нарисован треугольник с координатами: " + triangle.point);
+//            System.out.println("Нарисован квадрат с координатами: " + square.point);
         }
     }
 }
